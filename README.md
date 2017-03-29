@@ -1,5 +1,5 @@
 # Macropores
-Tools for detecting and extracting macropores and dye-stained patterns from horizontal soil-profile images. Additionally the detected structures can be used to perform distance calculations such as the macropore-network topology and macropore-matrix interaction.
+Tools for detecting and extracting macropores and dye-stained patterns from horizontal soil-profile images. Subsequently, the detected structures can be used to perform distance calculations such as the macropore-network topology and macropore-matrix interaction.
 
 # Required packages
 * astropy
